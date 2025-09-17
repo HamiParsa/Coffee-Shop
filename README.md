@@ -58,7 +58,7 @@ Perfect for practicing React, Next.js, TypeScript, and Tailwind CSS in a real-wo
 <div align="center">
   <img src="/pic1.png" width="700px" />
   <br/>
-  <img src="/pic2-pic2.png" width="700px" />
+  <img src="/pic2.png" width="700px" />
 </div>
 <hr/>
 <div align="center">
