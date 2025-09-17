@@ -14,12 +14,12 @@ type MenuItem = {
 };
 
 const menuItems: MenuItem[] = [
-  { id: 1, category: "Coffee", name: "Espresso", desc: "Strong and bold shot of coffee", price: "$3", img: "/espresso.png" },
-  { id: 2, category: "Coffee", name: "Cappuccino", desc: "Espresso with steamed milk & foam", price: "$4.5", img: "/cappuccino.png" },
-  { id: 3, category: "Desserts", name: "Cheesecake", desc: "Classic creamy cheesecake", price: "$5", img: "/cheesecake.png" },
-  { id: 4, category: "Desserts", name: "Brownie", desc: "Rich chocolate brownie", price: "$4", img: "/brownie.png" },
-  { id: 5, category: "Sandwiches", name: "Club Sandwich", desc: "Triple layered sandwich with chicken", price: "$7", img: "/club.png" },
-  { id: 6, category: "Drinks", name: "Lemonade", desc: "Refreshing fresh lemonade", price: "$3.5", img: "/lemonade.png" },
+  { id: 1, category: "Coffee", name: "Espresso", desc: "Strong and bold shot of coffee", price: "$3", img: "https://yourimageshare.com/ib/Qk6pCWIGSW.png" },
+  { id: 2, category: "Coffee", name: "Cappuccino", desc: "Espresso with steamed milk & foam", price: "$4.5", img: "https://yourimageshare.com/ib/0T6z3yneh2.png" },
+  { id: 3, category: "Desserts", name: "Cheesecake", desc: "Classic creamy cheesecake", price: "$5", img: "https://yourimageshare.com/ib/A09hTezKm9.png" },
+  { id: 4, category: "Desserts", name: "Brownie", desc: "Rich chocolate brownie", price: "$4", img: "https://yourimageshare.com/ib/88rTEOdZk8.png" },
+  { id: 5, category: "Sandwiches", name: "Club Sandwich", desc: "Triple layered sandwich with chicken", price: "$7", img: "https://yourimageshare.com/ib/hc4B7TjATk.png" },
+  { id: 6, category: "Drinks", name: "Lemonade", desc: "Refreshing fresh lemonade", price: "$3.5", img: "https://yourimageshare.com/ib/z146Y19uXG.png" },
 ];
 
 const categories = [

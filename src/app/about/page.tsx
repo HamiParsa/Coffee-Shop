@@ -35,10 +35,10 @@ export default function AboutPage() {
           whileInView={{ opacity: 1, x: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
-          className="relative w-[500px] md:h-80 rounded-2xl overflow-hidden shadow-lg"
+          className="relative  md:h-80 rounded-2xl overflow-hidden shadow-lg"
         >
           <Image
-            src="/cafe-interior.jpg"
+            src="https://yourimageshare.com/ib/Is6k1b7t8U.png"
             alt="Cafe Interior"
             fill
           />

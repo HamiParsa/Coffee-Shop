@@ -20,7 +20,7 @@ export default function Home() {
           playsInline
           className="absolute inset-0 w-full h-full object-cover -z-10"
         >
-          <source src="/coffee-video.mp4" type="video/mp4" />
+          <source src="https://yourimageshare.com/ib/uQmmriy7eP.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-black/50 -z-10"></div>
 
@@ -53,9 +53,9 @@ export default function Home() {
         </h2>
         <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto px-6">
           {[
-            { img: "/latte.jpg", title: "Caramel Latte", desc: "Smooth espresso with caramel flavor" },
-            { img: "/cake.png", title: "Chocolate Cake", desc: "Rich and moist dark chocolate cake" },
-            { img: "/mocha.png", title: "Iced Mocha", desc: "Refreshing iced espresso with chocolate" },
+            { img: "https://yourimageshare.com/ib/6VGVEVwMAv.jpg", title: "Caramel Latte", desc: "Smooth espresso with caramel flavor" },
+            { img: "https://yourimageshare.com/ib/p2GLjGmaU1.png", title: "Chocolate Cake", desc: "Rich and moist dark chocolate cake" },
+            { img: "https://yourimageshare.com/ib/3aMRoqwRbw.png", title: "Iced Mocha", desc: "Refreshing iced espresso with chocolate" },
           ].map((item, i) => (
             <motion.div
               key={i}
