@@ -1,70 +1,90 @@
-<div>
-  <h1>Click on the GitHub icon below to view the project online.</h1>
+<div align="center">
+  <h1>☕ Coffee Shop Website</h1>
+  <p>Modern, responsive cafe website with menu, contact form, and interactive UI 🍰</p>
   <a href="https://hamiparsa.github.io/Coffee-Shop/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Live_Project-795548?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-Cafe Website Project ☕🍰
+---
 
-This is a responsive web application for a modern cafe showcasing menu items, and contact information.
+## ☕ About the Project
 
-Features:
-<ul>
-  <li>
-    Display menu items with images, prices, and descriptions
-  </li>
-  <li>
-    Responsive design for mobile, tablet, and desktop screens
-  </li>
-  <li>
-    Contact form for reservations and inquiries
-  </li>
-  <li>
-    Smooth animations and interactive UI elements
-  </li>
-</ul>
+**Coffee Shop Website** is a fully responsive web application for a modern cafe.  
+It showcases menu items, allows customers to browse and interact, and provides a contact form for reservations and inquiries.
 
-Technologies Used:
+Built using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**, this project highlights front-end development skills with smooth animations and interactive elements.
+
+---
+
+## 🍰 Features
 
 <ul>
-  <li>
-    React for building UI components 
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-  <li>
-    Next.js for server-side rendering and routing
-    <img width='20px' src='https://skillicons.dev/icons?i=next'>
-  </li>
-  <li>
-    TypeScript for type safety and better code quality
-    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
-  </li>
-  <li>
-    Tailwind CSS for fast and responsive styling
-    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
-  </li>
+  <li>📜 <b>Menu Display</b> — Show images, prices, and descriptions for items</li>
+  <li>💻 <b>Responsive Design</b> — Works seamlessly on mobile, tablet, and desktop</li>
+  <li>✉️ <b>Contact Form</b> — Make reservations and inquiries</li>
+  <li>🎨 <b>Interactive UI</b> — Smooth animations and hover effects</li>
 </ul>
 
-Description:
+---
 
-This project demonstrates a modern cafe website with menu browsing, online ordering, and contact functionality. Zustand manages global state for cart and user interactions, making the site fast and reactive.
+## 🧠 Tech Stack
 
-Perfect for practicing React, Next.js, TypeScript, and Tailwind CSS in a real-world interactive application.
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Building interactive UI components |
+| 🧭 **Next.js** | Routing and server-side rendering |
+| 🟦 **TypeScript** | Type safety and better code quality |
+| 🎨 **Tailwind CSS** | Modern, responsive design |
+| 🪄 **Zustand** | State management for cart and user interactions |
 
-<hr/>
+---
 
-<h1 align="center">Project Images : 🖼️</h1>
+## 💡 Description
+
+This project demonstrates a modern cafe website where users can:  
+- Browse menu items with detailed info  
+- Use a contact form for reservations and questions  
+- Enjoy a smooth, reactive UI with animations  
+
+Perfect for practicing **React**, **Next.js**, **TypeScript**, and **Tailwind CSS** in a real-world responsive web project.
+
+---
+
+## 🖼️ Project Preview
+
+<h3 align="center">✨ Screenshots ✨</h3>
+
 <div align="center">
   <img src="/pic1.png" width="700px" />
-  <br/>
-  <br/>
+  <br/><br/>
   <img src="/pic2.png" width="700px" />
 </div>
 <hr/>
 <div align="center">
   <img src="/pic3.png" width="700px" />
-  <br/>
-  <br/>
+  <br/><br/>
   <img src="/pic4.png" width="700px" />
+</div>
+
+---
+
+## 🚀 Future Improvements
+
+- 🛒 Add online ordering and cart functionality  
+- 🌈 Implement dark/light mode  
+- 📱 Improve mobile animations with Framer Motion  
+- 🧾 Add newsletter subscription section  
+
+---
+
+## 👨‍💻 Author
+
+**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+💬 Front-End Developer | Passionate about interactive UI and modern web design  
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,redux" />
 </div>
