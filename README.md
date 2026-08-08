@@ -215,7 +215,7 @@ Perfect for practicing **React**, **Next.js**, **TypeScript**, and **Tailwind CS
 ## 👨‍💻 Author
 
 **Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
-💬 Front-End Developer | Passionate about interactive UI and modern web design  
+💬 Full-Stack Developer | Passionate about interactive UI and modern web design  
 
 ---
 
