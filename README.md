@@ -201,7 +201,6 @@ Perfect for practicing **React**, **Next.js**, **TypeScript**, and **Tailwind CS
   <img src="/pic4.png" width="700px" />
 </div>
 
-
 ---
 
 ## 🚀 Future Improvements
