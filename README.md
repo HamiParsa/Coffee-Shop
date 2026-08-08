@@ -202,7 +202,6 @@ Perfect for practicing **React**, **Next.js**, **TypeScript**, and **Tailwind CS
 </div>
 
 
-
 ---
 
 ## 🚀 Future Improvements
