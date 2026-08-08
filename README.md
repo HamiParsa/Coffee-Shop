@@ -195,13 +195,13 @@ Perfect for practicing **React**, **Next.js**, **TypeScript**, and **Tailwind CS
   <img src="/pic1.png" width="700px" />
   <br/><br/>
   <img src="/pic2.png" width="700px" />
-</div>
-<hr/>
-<div align="center">
+  <br/><br/>
   <img src="/pic3.png" width="700px" />
   <br/><br/>
   <img src="/pic4.png" width="700px" />
 </div>
+
+
 
 ---
 
